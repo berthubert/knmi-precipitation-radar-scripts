@@ -1,7 +1,12 @@
-In this repository I've deposited some rough scripts to get you started
+In this repository I've deposited some rough instructions to get you started
 using the KNMI precipitation radar data. KNMI is the Dutch national weather
 service, and they do a lot of cool research. In addition, they publish a ton
 of open data.
+
+> Many thanks to [Russ Garrett](https://russ.garrett.co.uk/) who helped me
+> get started with HDF5 image data. His explanation how to retrieve NASA DSCOVR EPIC
+> images and data is [a thing of
+> beauty](https://russss.github.io/epic-image-processing/index.html)
 
 # The data
 "Gridded files of radar reflectivities at 1500 m over the Netherlands and

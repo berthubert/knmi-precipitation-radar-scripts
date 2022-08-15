@@ -52,7 +52,8 @@ it can do many things.
 If you are into Python, [h5py](https://www.h5py.org/) works well with the
 KNMI data and with Matplotlib. 
 
-In [knmi-precip-radar-script.ipynb] you'll find a simple file that reads an
+In [knmi-precip-radar-script.ipynb](knmi-precip-radar-script.ipynb) you'll find a simple
+Jupyter notebook that reads an
 hour of data from the KNMI API using the operational test key, and turns
 that into this fun animation:
 
